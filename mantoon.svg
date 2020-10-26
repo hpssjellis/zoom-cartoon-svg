@@ -1,0 +1,724 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   sodipodi:docname="mantoon.svg"
+   viewBox="0 0 685.26001 1132.5"
+   version="1.1"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   width="730.94403"
+   height="1208">
+  <defs
+     id="defs2704" />
+  <sodipodi:namedview
+     id="base"
+     bordercolor="#666666"
+     inkscape:pageshadow="2"
+     inkscape:window-y="26"
+     pagecolor="#ffffff"
+     inkscape:window-height="1040"
+     inkscape:window-maximized="0"
+     inkscape:zoom="0.60306516"
+     inkscape:window-x="547"
+     showgrid="false"
+     borderopacity="1.0"
+     inkscape:current-layer="skeleton_1_"
+     inkscape:cx="342.63211"
+     inkscape:cy="566.2738"
+     inkscape:window-width="1267"
+     inkscape:pageopacity="0.0"
+     inkscape:document-units="px"
+     inkscape:document-rotation="0" />
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(41.217,-41.693)">
+    <g
+       id="g3667">
+      <path
+         id="path3648"
+         style="fill:#550000;stroke:#000000;stroke-width:6.8"
+         d="m 516.89,1132.3 30.531,38.566 -187.21,-3.2138 48.207,-41.78 108.47,6.4276 z" />
+      <path
+         id="path3646"
+         sodipodi:nodetypes="ccccc"
+         style="fill:#550000;stroke:#000000;stroke-width:6.8"
+         d="m 166.3,1118.3 -32.276,51.939 187.21,-3.2138 -46.463,-55.153 -108.47,6.4276 z" />
+      <path
+         id="path3605"
+         sodipodi:nodetypes="ccssscccccccccccccccccsccccccccsssccc"
+         style="fill:#ffccaa;stroke:#000000;stroke-width:4.3"
+         d="m 245,92.438 v 38.75 c -1.0106,-0.14519 -2.0429,-0.21875 -3.0938,-0.21875 -11.913,0 -21.562,9.6491 -21.562,21.562 0,11.9129 9.6491,21.594 21.562,21.594 1.0508,0 2.0831,-0.0736 3.0938,-0.21875 v 69.531 h 42.469 l -0.875,27.75 -55.47,23.09 -270.19,109.15 229.64,234.66 38.64,99.37 22.62,-42.11 -41.82,-68.6 -178.78,-198.72 186.02,-69.03 13.875,283.5 177.19,-1.5312 -10.781,-278.88 177.42,71.411 -141.61,185.16 c 0,0 -29.292,67.789 -23.129,72.411 6.1632,4.6224 18.416,64.461 18.416,64.461 l 13.431,-106.98 199.84,-242 -255.15,-110.72 -46.25,-30.812 v -21.594 h 40.062 v -69.844 c 1.4928,0.32682 3.0341,0.53125 4.625,0.53125 11.913,0 21.594,-9.6804 21.594,-21.594 0,-11.913 -9.6804,-21.562 -21.594,-21.562 -1.5902,0 -3.1328,0.17345 -4.625,0.5 v -39.031 h -135.56 z" />
+      <path
+         id="path3607"
+         style="fill:#ffffff;stroke:#000000;stroke-width:7.3"
+         d="m 408.31,616.32 6.1632,38.52 101.69,476.11 -123.26,4.6223 -66.254,-383.66 -36.979,380.58 -130.97,-16.949 73.958,-496.14 -1.5408,-13.867 177.19,-3.0816 v 13.867 z" />
+      <path
+         id="path2828"
+         style="fill:#ffffff;stroke:#000000;stroke-width:8.3"
+         d="m 378.88,277.7 c -11.747,26.988 -38.625,45.875 -69.938,45.875 -30.752,0 -57.246,-18.221 -69.312,-44.438 l -171.84,61.375 53.938,83.219 77.031,-40.062 7.7188,248.06 224.94,-3.0938 -18.469,-244.97 69.312,40.062 c 0,0 57.038,-101.69 50.875,-101.69 -3.7906,0 -89.069,-25.048 -154.25,-44.344 z" />
+      <path
+         id="path3609"
+         style="fill:#00ffff"
+         d="m 225.15,695.17 -14.185,83.945 c 6.3941,2.207 13.396,2.9501 20.547,1.8587 23.554,-3.5949 39.746,-25.619 36.151,-49.173 -3.2547,-21.325 -21.59,-36.596 -42.513,-36.63 z" />
+      <path
+         id="path3614"
+         style="fill:#aa0000"
+         d="m 451.94,850.08 18.689,83.058 c -6.2658,2.5484 -13.217,3.668 -20.417,2.9636 -23.714,-2.32 -41.069,-23.44 -38.749,-47.153 2.1004,-21.469 19.586,-37.707 40.477,-38.868 z" />
+      <path
+         id="path3616"
+         style="fill:#800080"
+         d="m 176.75,1012.9 -11.65,84.334 c 6.4576,2.0135 13.479,2.5454 20.594,1.2391 23.435,-4.3027 38.956,-26.805 34.654,-50.24 -3.8954,-21.217 -22.682,-35.93 -43.597,-35.333 z" />
+      <path
+         id="path3618"
+         style="fill:#ffff00"
+         d="m 405.71,631.75 18.689,83.058 c -6.2658,2.5484 -13.217,3.668 -20.417,2.9636 -23.714,-2.32 -41.069,-23.44 -38.749,-47.153 2.1004,-21.469 19.586,-37.707 40.477,-38.868 z" />
+      <path
+         id="path3630"
+         style="fill:#000000;stroke:#000000;stroke-width:1px"
+         d="m 223.42,136.18 23.112,18.49 21.571,-60.091 9.2448,26.193 21.571,-27.734 10.786,29.275 24.653,-30.816 4.6224,30.816 27.734,-32.357 v 35.438 l 10.786,-12.326 4.6224,33.897 24.653,-18.49 -16.949,-58.55 -72.417,-27.734 -86.284,23.112 -7.704,70.877 z" />
+      <rect
+         id="rect3632"
+         style="fill:#803300"
+         transform="rotate(-0.96571)"
+         height="69.097"
+         width="43.387001"
+         y="395.73999"
+         x="196.32001" />
+      <rect
+         id="rect3634"
+         style="fill:#a02c2c"
+         transform="rotate(-3.1805)"
+         height="69.097"
+         width="43.387001"
+         y="578.19"
+         x="348.48999" />
+      <rect
+         id="rect3636"
+         style="fill:#803300"
+         transform="rotate(-4.2593)"
+         height="69.097"
+         width="43.387001"
+         y="436.04001"
+         x="315.75" />
+      <rect
+         id="rect3638"
+         style="fill:#000080"
+         transform="rotate(-3.1805)"
+         height="69.097"
+         width="43.387001"
+         y="528.40997"
+         x="176.63" />
+      <rect
+         id="rect3640"
+         style="fill:#800080"
+         transform="matrix(0.60095,0.79928,-0.79928,0.60095,0,0)"
+         height="69.097"
+         width="43.387001"
+         y="70.579002"
+         x="635.97998" />
+      <rect
+         id="rect3642"
+         style="fill:#800080"
+         inkscape:transform-center-x="12.051846"
+         inkscape:transform-center-y="-9.6414772"
+         transform="rotate(37.677)"
+         height="69.097"
+         width="43.387001"
+         y="168.44"
+         x="302.91" />
+      <rect
+         id="rect3644"
+         style="fill:#808000"
+         inkscape:transform-center-x="-15.397487"
+         inkscape:transform-center-y="-1.0594547"
+         transform="rotate(175.08)"
+         height="69.097"
+         width="43.387001"
+         y="-425.57001"
+         x="-465.04001" />
+      <circle
+         id="path3650"
+         style="fill:#550000"
+         transform="translate(-27.978,30.065)"
+         cx="314.27301"
+         cy="119.95473"
+         r="22.385775" />
+      <circle
+         id="path3652"
+         style="fill:#550000"
+         transform="translate(24.934,30.065)"
+         cx="314.27301"
+         cy="119.95473"
+         r="22.385775" />
+      <circle
+         id="path3654"
+         style="fill:#ffffff"
+         transform="matrix(0.36364,0,0,0.36364,175.21,108.43)"
+         cx="314.27301"
+         cy="119.95473"
+         r="22.385775" />
+      <circle
+         id="path3656"
+         style="fill:#ffffff"
+         transform="matrix(0.36364,0,0,0.36364,222.31,107.85)"
+         cx="314.27301"
+         cy="119.95473"
+         r="22.385775" />
+      <path
+         id="path3658"
+         style="fill:#800000"
+         d="m 255.21,181.02 c 1.0318,31.378 26.806,56.497 58.434,56.497 31.628,0 57.35,-25.12 58.382,-56.497 h -116.82 z" />
+      <circle
+         id="path3663"
+         style="fill:#ffffff"
+         transform="translate(-19.837,41.693)"
+         cx="259.0354"
+         cy="118.21038"
+         r="4.9423137" />
+      <circle
+         id="path3665"
+         style="fill:#ffffff"
+         transform="translate(130.18,41.693)"
+         cx="259.0354"
+         cy="118.21038"
+         r="4.9423137" />
+    </g>
+    <g
+       id="skeleton_1_"
+       transform="matrix(1.0292105,0,0,1.3422413,-327.76038,-134.01495)">
+      <polygon
+         style="fill:none;stroke:#000000;stroke-miterlimit:10"
+         points="731.7,349.5 518.8,349.5 569.1,565.3 685.5,564.5 "
+         id="polygon1551" />
+      <polyline
+         style="fill:none;stroke:#000000;stroke-miterlimit:10"
+         points="517.8,349.5 415.1,349.5 251.8,355.8  "
+         id="polyline1553" />
+      <polyline
+         style="fill:none;stroke:#000000;stroke-miterlimit:10"
+         points="733.2,349.1 836.4,349.1 999.7,355.5  "
+         id="polyline1555" />
+      <polyline
+         style="fill:none;stroke:#000000;stroke-miterlimit:10"
+         points="569.1,565.3 575.5,725.5 575.5,933.5  "
+         id="polyline1557" />
+      <polyline
+         style="fill:none;stroke:#000000;stroke-miterlimit:10"
+         points="685.5,564.5 685.5,725.5 685.5,933.5  "
+         id="polyline1559"
+         transform="matrix(-1,0,0,1,1367.9791,-2.0307624e-8)" />
+      <polyline
+         style="fill:none;stroke:#000000;stroke-miterlimit:10"
+         points="624.5,170 604.7,172.5 592.2,182 583.6,196.1    581.1,205.4 580.3,217.1 580.3,226.6 581.1,248.3 587.9,268.3 599.5,280.8 609.5,287.5 624.5,290.7 639.3,287.9 649.3,281.2    660.9,268.6 667.7,248.6 668.5,227 668.5,217.4 667.7,205.7 665.2,196.5 657,182 644.4,172.5 624.5,170  "
+         id="polyline1561" />
+      <polyline
+         style="fill:none;stroke:#000000;stroke-miterlimit:10"
+         points="588.5,206.9 592.5,203.2 598.7,202.2 606,202.2    615.8,206.2  "
+         id="polyline1563" />
+      <polygon
+         style="fill:none;stroke:#000000;stroke-miterlimit:10"
+         points="599.9,211.4 606.2,211.4 611.4,215.6 606.2,216.6 599.9,217.4 594.7,215.1 "
+         id="polygon1565" />
+      <polyline
+         style="fill:none;stroke:#000000;stroke-miterlimit:10"
+         points="613,233.2 618.2,233.2 623.7,234 623.7,228.7    623.7,221.6 623.7,216.1 623.7,210.3  "
+         id="polyline1567" />
+      <polyline
+         style="fill:none;stroke:#000000;stroke-miterlimit:10"
+         points="660,206.5 656,203.6 649.7,202.1 642.4,202.5    632.4,205.7  "
+         id="polyline1569" />
+      <polygon
+         style="fill:none;stroke:#000000;stroke-miterlimit:10"
+         points="648.8,211.4 642.5,211.4 637.4,215.6 642.5,216.6 648.8,217.4 654.1,215.1 "
+         id="polygon1571" />
+      <polyline
+         style="fill:none;stroke:#000000;stroke-miterlimit:10"
+         points="634.1,233.2 629.1,233.2 623.7,234  "
+         id="polyline1573" />
+      <polygon
+         style="fill:none;stroke:#000000;stroke-miterlimit:10"
+         points="635.6,261.6 628.5,264.4 624.5,264.9 620.4,264.4 613.4,261.6 607,255.3 613.9,251.9 620.4,250.8 624.5,251.7 628.7,250.8 635.1,251.9 642,255.3 "
+         id="polygon1575" />
+      <polyline
+         style="fill:none;stroke:#000000;stroke-miterlimit:10"
+         points="607,255.3 610.6,255.6 620.6,254.8 624.5,255.3    628.5,254.8 638.4,255.6 642,255.3  "
+         id="polyline1577" />
+      <polyline
+         style="fill:none;stroke:#000000;stroke-miterlimit:10"
+         points="607,255.3 610.6,255.6 620.6,257.7 624.5,258.5    628.5,257.7 638.4,255.6 642,255.3  "
+         id="polyline1579" />
+      <circle
+         id="rightShoulder"
+         cx="518.90002"
+         cy="349.20001"
+         r="8.1999998" />
+      <circle
+         id="rightElbow"
+         cx="415.39999"
+         cy="349.29999"
+         r="8.1999998" />
+      <circle
+         id="rightWrist"
+         cx="252"
+         cy="355.70001"
+         r="8.1999998" />
+      <circle
+         id="rightHip"
+         cx="569.20001"
+         cy="565"
+         r="8.1999998" />
+      <circle
+         id="rightKnee"
+         cx="575.59998"
+         cy="725.20001"
+         r="8.1999998" />
+      <circle
+         id="rightAnkle"
+         cx="575.59998"
+         cy="933.20001"
+         r="8.1999998" />
+      <circle
+         id="leftElbow"
+         cx="836.20001"
+         cy="348.89999"
+         r="8.1999998" />
+      <circle
+         id="leftWrist"
+         cx="999.59998"
+         cy="355.20001"
+         r="8.1999998" />
+      <circle
+         id="leftHip"
+         cx="685.59998"
+         cy="564.20001"
+         r="8.1999998" />
+      <circle
+         id="leftKnee"
+         cx="685.59998"
+         cy="725.20001"
+         r="8.1999998" />
+      <circle
+         id="leftAnkle"
+         cx="773.04529"
+         cy="933.20001"
+         r="8.1999998" />
+      <circle
+         id="rightEye0"
+         cx="594.70001"
+         cy="215.10001"
+         r="0.80000001" />
+      <circle
+         id="rightBrow1"
+         cx="592.5"
+         cy="203.2"
+         r="0.80000001" />
+      <circle
+         id="rightBrow4"
+         cx="615.79999"
+         cy="206.2"
+         r="0.80000001" />
+      <circle
+         id="nose1"
+         cx="623.70001"
+         cy="216.10001"
+         r="0.80000001" />
+      <circle
+         id="rightBrow3"
+         cx="606"
+         cy="202.2"
+         r="0.80000001" />
+      <circle
+         id="rightEye1"
+         cx="599.90002"
+         cy="211.39999"
+         r="0.80000001" />
+      <circle
+         id="rightBrow0"
+         cx="588.5"
+         cy="206.89999"
+         r="0.80000001" />
+      <circle
+         id="rightBrow2"
+         cx="598.70001"
+         cy="202.2"
+         r="0.80000001" />
+      <circle
+         id="rightEye5"
+         cx="599.90002"
+         cy="217.39999"
+         r="0.80000001" />
+      <circle
+         id="rightEye2"
+         cx="606.20001"
+         cy="211.39999"
+         r="0.80000001" />
+      <circle
+         id="rightEye3"
+         cx="611.40002"
+         cy="215.60001"
+         r="0.80000001" />
+      <circle
+         id="nose0"
+         cx="623.70001"
+         cy="210.3"
+         r="0.80000001" />
+      <circle
+         id="nose3"
+         cx="623.70001"
+         cy="228.7"
+         r="0.80000001" />
+      <circle
+         id="rightNose0"
+         cx="613"
+         cy="233.2"
+         r="0.80000001" />
+      <circle
+         id="rightMouthCorner"
+         cx="607"
+         cy="255.3"
+         r="0.80000001" />
+      <circle
+         id="rightNose1"
+         cx="618.20001"
+         cy="233.2"
+         r="0.80000001" />
+      <circle
+         id="rightUpperLipTop0"
+         cx="613.90002"
+         cy="251.89999"
+         r="0.80000001" />
+      <circle
+         id="nose2"
+         cx="623.70001"
+         cy="221.60001"
+         r="0.80000001" />
+      <circle
+         id="nose4"
+         cx="623.70001"
+         cy="234"
+         r="0.80000001" />
+      <circle
+         id="upperLipTopMid"
+         cx="624.5"
+         cy="251.7"
+         r="0.80000001" />
+      <circle
+         id="rightUpperLipTop1"
+         cx="620.40002"
+         cy="250.8"
+         r="0.80000001" />
+      <path
+         id="rightMiddleLip"
+         d="m 610.6,254.8 c 0.4,0 0.8,0.4 0.8,0.8 0,0.4 -0.4,0.8 -0.8,0.8 -0.4,0 -0.8,-0.4 -0.8,-0.8 0,-0.4 0.4,-0.8 0.8,-0.8 z" />
+      <circle
+         id="lowerLipBottomMid"
+         cx="624.5"
+         cy="264.89999"
+         r="0.80000001" />
+      <circle
+         id="upperLipBottomMid"
+         cx="624.5"
+         cy="255.3"
+         r="0.80000001" />
+      <circle
+         id="lowerLipTopMid"
+         cx="624.5"
+         cy="258.39999"
+         r="0.80000001" />
+      <circle
+         id="rightUpperLipBottom1"
+         cx="620.59998"
+         cy="254.8"
+         r="0.80000001" />
+      <circle
+         id="rightLowerLipTop0"
+         cx="620.59998"
+         cy="257.70001"
+         r="0.80000001" />
+      <circle
+         id="rightLowerLipBottom1"
+         cx="620.40002"
+         cy="264.39999"
+         r="0.80000001" />
+      <circle
+         id="rightLowerLipBottom0"
+         cx="613.40002"
+         cy="261.60001"
+         r="0.80000001" />
+      <circle
+         id="rightEye4"
+         cx="606.20001"
+         cy="216.60001"
+         r="0.80000001" />
+      <circle
+         id="jawMid"
+         cx="624.5"
+         cy="290.70001"
+         r="0.80000001" />
+      <circle
+         id="rightJaw7"
+         cx="609.5"
+         cy="287.5"
+         r="0.80000001" />
+      <circle
+         id="rightJaw6"
+         cx="599.5"
+         cy="280.79999"
+         r="0.80000001" />
+      <circle
+         id="rightJaw5"
+         cx="587.90002"
+         cy="268.29999"
+         r="0.80000001" />
+      <circle
+         id="rightJaw4"
+         cx="581.09998"
+         cy="248.3"
+         r="0.80000001" />
+      <circle
+         id="rightJaw3"
+         cx="580.29999"
+         cy="226.60001"
+         r="0.80000001" />
+      <circle
+         id="rightJaw2"
+         cx="580.29999"
+         cy="217.10001"
+         r="0.80000001" />
+      <circle
+         id="rightJaw1"
+         cx="581.09998"
+         cy="205.39999"
+         r="0.80000001" />
+      <circle
+         id="rightJaw0"
+         cx="583.59998"
+         cy="196.10001"
+         r="0.80000001" />
+      <circle
+         id="topMid"
+         cx="624.70001"
+         cy="170"
+         r="0.80000001" />
+      <circle
+         id="leftTop0"
+         cx="644.40002"
+         cy="172.5"
+         r="0.80000001" />
+      <circle
+         id="leftTop1"
+         cx="657"
+         cy="182"
+         r="0.80000001" />
+      <circle
+         id="leftEye0"
+         cx="654.29999"
+         cy="215.10001"
+         r="0.80000001" />
+      <circle
+         id="leftBrow1"
+         cx="656.20001"
+         cy="203.60001"
+         r="0.80000001" />
+      <circle
+         id="leftBrow4"
+         cx="632.59998"
+         cy="205.7"
+         r="0.80000001" />
+      <circle
+         id="leftBrow3"
+         cx="642.59998"
+         cy="202.5"
+         r="0.80000001" />
+      <circle
+         id="leftEye1"
+         cx="649.09998"
+         cy="211.39999"
+         r="0.80000001" />
+      <circle
+         id="leftBrow0"
+         cx="660.20001"
+         cy="206.5"
+         r="0.80000001" />
+      <circle
+         id="leftBrow2"
+         cx="649.90002"
+         cy="202.10001"
+         r="0.80000001" />
+      <circle
+         id="leftEye5"
+         cx="649.09998"
+         cy="217.39999"
+         r="0.80000001" />
+      <circle
+         id="leftEye2"
+         cx="642.79999"
+         cy="211.39999"
+         r="0.80000001" />
+      <circle
+         id="leftEye3"
+         cx="637.59998"
+         cy="215.60001"
+         r="0.80000001" />
+      <circle
+         id="leftNose0"
+         cx="634.09998"
+         cy="233.2"
+         r="0.80000001" />
+      <circle
+         id="leftMouthCorner"
+         cx="642"
+         cy="255.3"
+         r="0.80000001" />
+      <circle
+         id="leftNose1"
+         cx="629.29999"
+         cy="233.2"
+         r="0.80000001" />
+      <circle
+         id="leftUpperLipTop0"
+         cx="635.09998"
+         cy="251.89999"
+         r="0.80000001" />
+      <circle
+         id="leftUpperLipTop1"
+         cx="628.70001"
+         cy="250.8"
+         r="0.80000001" />
+      <path
+         id="leftMiddleLip"
+         d="m 638.4,254.8 c 0.4,0 0.8,0.4 0.8,0.8 0,0.4 -0.4,0.8 -0.8,0.8 -0.4,0 -0.8,-0.4 -0.8,-0.8 0,-0.4 0.4,-0.8 0.8,-0.8 z" />
+      <circle
+         id="leftUpperLipBottom1"
+         cx="628.5"
+         cy="254.8"
+         r="0.80000001" />
+      <circle
+         id="leftLowerLipTop0"
+         cx="628.5"
+         cy="257.70001"
+         r="0.80000001" />
+      <circle
+         id="leftLowerLipBottom1"
+         cx="628.70001"
+         cy="264.39999"
+         r="0.80000001" />
+      <circle
+         id="leftLowerLipBottom0"
+         cx="635.59998"
+         cy="261.60001"
+         r="0.80000001" />
+      <circle
+         id="leftEye4"
+         cx="642.79999"
+         cy="216.60001"
+         r="0.80000001" />
+      <circle
+         id="leftJaw7"
+         cx="639.29999"
+         cy="287.89999"
+         r="0.80000001" />
+      <circle
+         id="leftJaw6"
+         cx="649.29999"
+         cy="281.20001"
+         r="0.80000001" />
+      <circle
+         id="leftJaw5"
+         cx="660.90002"
+         cy="268.60001"
+         r="0.80000001" />
+      <circle
+         id="leftJaw4"
+         cx="667.70001"
+         cy="248.60001"
+         r="0.80000001" />
+      <circle
+         id="leftJaw3"
+         cx="668.5"
+         cy="227"
+         r="0.80000001" />
+      <circle
+         id="leftJaw2"
+         cx="668.5"
+         cy="217.39999"
+         r="0.80000001" />
+      <circle
+         id="leftJaw1"
+         cx="667.70001"
+         cy="205.7"
+         r="0.80000001" />
+      <circle
+         id="leftJaw0"
+         cx="665.20001"
+         cy="196.5"
+         r="0.80000001" />
+      <circle
+         id="rightTop0"
+         cx="604.79999"
+         cy="172.5"
+         r="0.80000001" />
+      <circle
+         id="rightTop1"
+         cx="592.20001"
+         cy="182"
+         r="0.80000001" />
+      <circle
+         id="leftShoulder"
+         cx="731.79999"
+         cy="349.20001"
+         r="8.1999998" />
+    </g>
+  </g>
+  <metadata
+     id="metadata2701">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title></dc:title>
+        <dc:date>2010-07-31T17:27:24</dc:date>
+        <dc:description>Man,Cartoon,bujung</dc:description>
+        <dc:source>https://openclipart.org/detail/75607/man-by-aungkarns-75607</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>aungkarns</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Cartoon</rdf:li>
+            <rdf:li>Man</rdf:li>
+            <rdf:li>bujung</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
