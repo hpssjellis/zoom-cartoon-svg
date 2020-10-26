@@ -142,9 +142,8 @@
 
 
 
-    <g id="illustration"   inkscape:groupmode="lineset" inkscape:label="View Layer_LineSet" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
-        <g id="strokes" inkscape:groupmode="layer" inkscape:label="strokes" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
-            <path d=" M 531.299, 216.047 531.218, 215.937 531.194, 215.606 531.617, 215.140 531.671, 215.080 532.361, 214.659 532.464, 214.630 533.279, 214.408 534.265, 214.235 535.294, 214.148 536.337, 214.101 537.383, 214.122 538.413, 214.213 539.334, 214.468 539.448, 214.522 540.119, 214.838 540.214, 214.970 540.219, 214.976 540.238, 215.003 540.378, 215.195 540.374, 215.560 540.244, 215.834 " fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="butt" stroke-linejoin="round" stroke-opacity="1.0" stroke-width="3.0" />
+  <g id="illustration">            
+	  <path d=" M 531.299, 216.047 531.218, 215.937 531.194, 215.606 531.617, 215.140 531.671, 215.080 532.361, 214.659 532.464, 214.630 533.279, 214.408 534.265, 214.235 535.294, 214.148 536.337, 214.101 537.383, 214.122 538.413, 214.213 539.334, 214.468 539.448, 214.522 540.119, 214.838 540.214, 214.970 540.219, 214.976 540.238, 215.003 540.378, 215.195 540.374, 215.560 540.244, 215.834 " fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="butt" stroke-linejoin="round" stroke-opacity="1.0" stroke-width="3.0" />
             <path d=" M 542.780, 196.004 541.546, 195.794 541.439, 195.781 " fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="butt" stroke-linejoin="round" stroke-opacity="1.0" stroke-width="3.0" />
             <path d=" M 529.916, 211.983 529.994, 212.220 531.218, 215.937 " fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="butt" stroke-linejoin="round" stroke-opacity="1.0" stroke-width="3.0" />
             <path d=" M 540.374, 215.560 541.823, 212.191 543.682, 208.878 545.069, 206.489 545.939, 204.938 546.048, 204.743 " fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="butt" stroke-linejoin="round" stroke-opacity="1.0" stroke-width="3.0" />
@@ -1052,7 +1051,7 @@
             <path d=" M 949.313, 250.229 949.379, 250.075 949.392, 250.045 949.673, 249.394 " fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="butt" stroke-linejoin="round" stroke-opacity="1.0" stroke-width="3.0" />
             <path d=" M 949.474, 250.376 949.604, 250.237 949.818, 250.008 950.043, 249.768 " fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="butt" stroke-linejoin="round" stroke-opacity="1.0" stroke-width="3.0" />
             <path d=" M 949.604, 250.237 950.499, 249.950 " fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="butt" stroke-linejoin="round" stroke-opacity="1.0" stroke-width="3.0" />
-        </g>
+
     </g>
 
 
