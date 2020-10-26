@@ -124,6 +124,12 @@
 	<circle id="rightTop0" cx="604.8" cy="172.5" r="0.8"/>
 	<circle id="rightTop1" cx="592.2" cy="182" r="0.8"/>
 	<circle id="leftShoulder" cx="731.8" cy="349.2" r="8.2"/>
+	
+	
+	
+	
+	
+	
 </g>
 
 
@@ -143,7 +149,7 @@
 
 
   <g id="illustration">            
-	  <path d=" M 531.299, 216.047 531.218, 215.937 531.194, 215.606 531.617, 215.140 531.671, 215.080 532.361, 214.659 532.464, 214.630 533.279, 214.408 534.265, 214.235 535.294, 214.148 536.337, 214.101 537.383, 214.122 538.413, 214.213 539.334, 214.468 539.448, 214.522 540.119, 214.838 540.214, 214.970 540.219, 214.976 540.238, 215.003 540.378, 215.195 540.374, 215.560 540.244, 215.834 " fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="butt" stroke-linejoin="round" stroke-opacity="1.0" stroke-width="3.0" />
+	    <path d=" M 531.299, 216.047 531.218, 215.937 531.194, 215.606 531.617, 215.140 531.671, 215.080 532.361, 214.659 532.464, 214.630 533.279, 214.408 534.265, 214.235 535.294, 214.148 536.337, 214.101 537.383, 214.122 538.413, 214.213 539.334, 214.468 539.448, 214.522 540.119, 214.838 540.214, 214.970 540.219, 214.976 540.238, 215.003 540.378, 215.195 540.374, 215.560 540.244, 215.834 " fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="butt" stroke-linejoin="round" stroke-opacity="1.0" stroke-width="3.0" />
             <path d=" M 542.780, 196.004 541.546, 195.794 541.439, 195.781 " fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="butt" stroke-linejoin="round" stroke-opacity="1.0" stroke-width="3.0" />
             <path d=" M 529.916, 211.983 529.994, 212.220 531.218, 215.937 " fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="butt" stroke-linejoin="round" stroke-opacity="1.0" stroke-width="3.0" />
             <path d=" M 540.374, 215.560 541.823, 212.191 543.682, 208.878 545.069, 206.489 545.939, 204.938 546.048, 204.743 " fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="butt" stroke-linejoin="round" stroke-opacity="1.0" stroke-width="3.0" />
@@ -1051,7 +1057,432 @@
             <path d=" M 949.313, 250.229 949.379, 250.075 949.392, 250.045 949.673, 249.394 " fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="butt" stroke-linejoin="round" stroke-opacity="1.0" stroke-width="3.0" />
             <path d=" M 949.474, 250.376 949.604, 250.237 949.818, 250.008 950.043, 249.768 " fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="butt" stroke-linejoin="round" stroke-opacity="1.0" stroke-width="3.0" />
             <path d=" M 949.604, 250.237 950.499, 249.950 " fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="butt" stroke-linejoin="round" stroke-opacity="1.0" stroke-width="3.0" />
-
+   
+            <circle
+         id="rightShoulder_1_"
+         cx="518.90002"
+         cy="349.20001"
+         r="8.1999998" />
+      <circle
+         id="rightElbow_1_"
+         cx="415.39999"
+         cy="349.29999"
+         r="8.1999998" />
+      <circle
+         id="rightWrist_1_"
+         cx="252"
+         cy="355.70001"
+         r="8.1999998" />
+      <circle
+         id="rightHip_1_"
+         cx="569.20001"
+         cy="565"
+         r="8.1999998" />
+      <circle
+         id="rightKnee_1_"
+         cx="575.59998"
+         cy="725.20001"
+         r="8.1999998" />
+      <circle
+         id="rightAnkle_1_"
+         cx="575.59998"
+         cy="933.20001"
+         r="8.1999998" />
+      <circle
+         id="leftElbow_1_"
+         cx="836.20001"
+         cy="348.89999"
+         r="8.1999998" />
+      <circle
+         id="leftWrist_1_"
+         cx="999.59998"
+         cy="355.20001"
+         r="8.1999998" />
+      <circle
+         id="leftHip_1_"
+         cx="685.59998"
+         cy="564.20001"
+         r="8.1999998" />
+      <circle
+         id="leftKnee_1_"
+         cx="685.59998"
+         cy="725.20001"
+         r="8.1999998" />
+      <circle
+         id="leftAnkle_1_"
+         cx="685.59998"
+         cy="933.20001"
+         r="8.1999998" />
+      <circle
+         id="rightEye0_1_"
+         cx="594.70001"
+         cy="215.10001"
+         r="0.80000001" />
+      <circle
+         id="rightBrow1_1_"
+         cx="592.5"
+         cy="203.2"
+         r="0.80000001" />
+      <circle
+         id="rightBrow4_1_"
+         cx="615.79999"
+         cy="206.2"
+         r="0.80000001" />
+      <circle
+         id="nose1_1_"
+         cx="623.70001"
+         cy="216.10001"
+         r="0.80000001" />
+      <circle
+         id="rightBrow3_1_"
+         cx="606"
+         cy="202.2"
+         r="0.80000001" />
+      <circle
+         id="rightEye1_1_"
+         cx="599.90002"
+         cy="211.39999"
+         r="0.80000001" />
+      <circle
+         id="rightBrow0_1_"
+         cx="588.5"
+         cy="206.89999"
+         r="0.80000001" />
+      <circle
+         id="rightBrow2_1_"
+         cx="598.70001"
+         cy="202.2"
+         r="0.80000001" />
+      <circle
+         id="rightEye5_1_"
+         cx="599.90002"
+         cy="217.39999"
+         r="0.80000001" />
+      <circle
+         id="rightEye2_1_"
+         cx="606.20001"
+         cy="211.39999"
+         r="0.80000001" />
+      <circle
+         id="rightEye3_1_"
+         cx="611.40002"
+         cy="215.60001"
+         r="0.80000001" />
+      <circle
+         id="nose0_1_"
+         cx="623.70001"
+         cy="210.3"
+         r="0.80000001" />
+      <circle
+         id="nose3_1_"
+         cx="623.70001"
+         cy="228.7"
+         r="0.80000001" />
+      <circle
+         id="rightNose0_1_"
+         cx="613"
+         cy="233.2"
+         r="0.80000001" />
+      <circle
+         id="rightMouthCorner_1_"
+         cx="607"
+         cy="255.3"
+         r="0.80000001" />
+      <circle
+         id="rightNose1_1_"
+         cx="618.20001"
+         cy="233.2"
+         r="0.80000001" />
+      <circle
+         id="rightUpperLipTop0_1_"
+         cx="613.90002"
+         cy="251.89999"
+         r="0.80000001" />
+      <circle
+         id="nose2_1_"
+         cx="623.70001"
+         cy="221.60001"
+         r="0.80000001" />
+      <circle
+         id="nose4_1_"
+         cx="623.70001"
+         cy="234"
+         r="0.80000001" />
+      <circle
+         id="upperLipTopMid_1_"
+         cx="624.5"
+         cy="251.7"
+         r="0.80000001" />
+      <circle
+         id="rightUpperLipTop1_1_"
+         cx="620.40002"
+         cy="250.8"
+         r="0.80000001" />
+      <path
+         id="rightMiddleLip_1_"
+         d="m 610.6,254.8 c 0.4,0 0.8,0.4 0.8,0.8 0,0.4 -0.4,0.8 -0.8,0.8 -0.4,0 -0.8,-0.4 -0.8,-0.8 0,-0.4 0.4,-0.8 0.8,-0.8 z" />
+      <circle
+         id="lowerLipBottomMid_1_"
+         cx="624.5"
+         cy="264.89999"
+         r="0.80000001" />
+      <circle
+         id="upperLipBottomMid_1_"
+         cx="624.5"
+         cy="255.3"
+         r="0.80000001" />
+      <circle
+         id="lowerLipTopMid_1_"
+         cx="624.5"
+         cy="258.39999"
+         r="0.80000001" />
+      <circle
+         id="rightUpperLipBottom1"
+         cx="620.59998"
+         cy="254.8"
+         r="0.80000001" />
+      <circle
+         id="rightLowerLipTop0_1_"
+         cx="620.59998"
+         cy="257.70001"
+         r="0.80000001" />
+      <circle
+         id="rightLowerLipBottom1_1_"
+         cx="620.40002"
+         cy="264.39999"
+         r="0.80000001" />
+      <circle
+         id="rightLowerLipBottom0_1_"
+         cx="613.40002"
+         cy="261.60001"
+         r="0.80000001" />
+      <circle
+         id="rightEye4_1_"
+         cx="606.20001"
+         cy="216.60001"
+         r="0.80000001" />
+      <circle
+         id="jawMid_1_"
+         cx="624.5"
+         cy="290.70001"
+         r="0.80000001" />
+      <circle
+         id="rightJaw7_1_"
+         cx="609.5"
+         cy="287.5"
+         r="0.80000001" />
+      <circle
+         id="rightJaw6"
+         cx="599.5"
+         cy="280.79999"
+         r="0.80000001" />
+      <circle
+         id="rightJaw5_1_"
+         cx="587.90002"
+         cy="268.29999"
+         r="0.80000001" />
+      <circle
+         id="rightJaw4_1_"
+         cx="581.09998"
+         cy="248.3"
+         r="0.80000001" />
+      <circle
+         id="rightJaw3_1_"
+         cx="580.29999"
+         cy="226.60001"
+         r="0.80000001" />
+      <circle
+         id="rightJaw2_1_"
+         cx="580.29999"
+         cy="217.10001"
+         r="0.80000001" />
+      <circle
+         id="rightJaw1_1_"
+         cx="581.09998"
+         cy="205.39999"
+         r="0.80000001" />
+      <circle
+         id="rightJaw0_1_"
+         cx="583.59998"
+         cy="196.10001"
+         r="0.80000001" />
+      <circle
+         id="topMid"
+         cx="624.70001"
+         cy="170"
+         r="0.80000001" />
+      <circle
+         id="leftTop0_1_"
+         cx="644.40002"
+         cy="172.5"
+         r="0.80000001" />
+      <circle
+         id="leftTop1_1_"
+         cx="657"
+         cy="182"
+         r="0.80000001" />
+      <circle
+         id="leftEye0_1_"
+         cx="654.29999"
+         cy="215.10001"
+         r="0.80000001" />
+      <circle
+         id="leftBrow1_1_"
+         cx="656.20001"
+         cy="203.60001"
+         r="0.80000001" />
+      <circle
+         id="leftBrow4_1_"
+         cx="632.59998"
+         cy="205.7"
+         r="0.80000001" />
+      <circle
+         id="leftBrow3_1_"
+         cx="642.59998"
+         cy="202.5"
+         r="0.80000001" />
+      <circle
+         id="leftEye1"
+         cx="649.09998"
+         cy="211.39999"
+         r="0.80000001" />
+      <circle
+         id="leftBrow0_1_"
+         cx="660.20001"
+         cy="206.5"
+         r="0.80000001" />
+      <circle
+         id="leftBrow2_1_"
+         cx="649.90002"
+         cy="202.10001"
+         r="0.80000001" />
+      <circle
+         id="leftEye5_1_"
+         cx="649.09998"
+         cy="217.39999"
+         r="0.80000001" />
+      <circle
+         id="leftEye2_1_"
+         cx="642.79999"
+         cy="211.39999"
+         r="0.80000001" />
+      <circle
+         id="leftEye3_1_"
+         cx="637.59998"
+         cy="215.60001"
+         r="0.80000001" />
+      <circle
+         id="leftNose0_1_"
+         cx="634.09998"
+         cy="233.2"
+         r="0.80000001" />
+      <circle
+         id="leftMouthCorner_1_"
+         cx="642"
+         cy="255.3"
+         r="0.80000001" />
+      <circle
+         id="leftNose1_1_"
+         cx="629.29999"
+         cy="233.2"
+         r="0.80000001" />
+      <circle
+         id="leftUpperLipTop0_1_"
+         cx="635.09998"
+         cy="251.89999"
+         r="0.80000001" />
+      <circle
+         id="leftUpperLipTop1_1_"
+         cx="628.70001"
+         cy="250.8"
+         r="0.80000001" />
+      <path
+         id="leftMiddleLip_1_"
+         d="m 638.4,254.8 c 0.4,0 0.8,0.4 0.8,0.8 0,0.4 -0.4,0.8 -0.8,0.8 -0.4,0 -0.8,-0.4 -0.8,-0.8 0,-0.4 0.4,-0.8 0.8,-0.8 z" />
+      <circle
+         id="leftUpperLipBottom1_1_"
+         cx="628.5"
+         cy="254.8"
+         r="0.80000001" />
+      <circle
+         id="leftLowerLipTop0_1_"
+         cx="628.5"
+         cy="257.70001"
+         r="0.80000001" />
+      <circle
+         id="leftLowerLipBottom1_1_"
+         cx="628.70001"
+         cy="264.39999"
+         r="0.80000001" />
+      <circle
+         id="leftLowerLipBottom0_1_"
+         cx="635.59998"
+         cy="261.60001"
+         r="0.80000001" />
+      <circle
+         id="leftEye4_1_"
+         cx="642.79999"
+         cy="216.60001"
+         r="0.80000001" />
+      <circle
+         id="leftJaw7_1_"
+         cx="639.29999"
+         cy="287.89999"
+         r="0.80000001" />
+      <circle
+         id="leftJaw6"
+         cx="649.29999"
+         cy="281.20001"
+         r="0.80000001" />
+      <circle
+         id="leftJaw5_1_"
+         cx="660.90002"
+         cy="268.60001"
+         r="0.80000001" />
+      <circle
+         id="leftJaw4_1_"
+         cx="667.70001"
+         cy="248.60001"
+         r="0.80000001" />
+      <circle
+         id="leftJaw3_1_"
+         cx="668.5"
+         cy="227"
+         r="0.80000001" />
+      <circle
+         id="leftJaw2_1_"
+         cx="668.5"
+         cy="217.39999"
+         r="0.80000001" />
+      <circle
+         id="leftJaw1_1_"
+         cx="667.70001"
+         cy="205.7"
+         r="0.80000001" />
+      <circle
+         id="leftJaw0_1_"
+         cx="665.20001"
+         cy="196.5"
+         r="0.80000001" />
+      <circle
+         id="rightTop0_1_"
+         cx="604.79999"
+         cy="172.5"
+         r="0.80000001" />
+      <circle
+         id="rightTop1_1_"
+         cx="592.20001"
+         cy="182"
+         r="0.80000001" />
+      <circle
+         id="leftShoulder_1_"
+         cx="731.79999"
+         cy="349.20001"
+         r="8.1999998" /> 
+       
+       
+       
+       
     </g>
 
 
